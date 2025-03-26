@@ -25,13 +25,24 @@ A brief overview of your project and its purpose. Mention which problem statemen
 What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+- *Extracts data profiling rules* from regulatory reporting instructions using LLMs.
+- *Performs anomaly detection* using unsupervised machine learning to validate data consistency.
+- *Generates Python code* to validate data based on profiling rules.
+- *Flags high-risk transactions* and suggests remediation actions, such as adjustments, explanations, or compliance steps.
+- *Provides an interactive interface* for auditors to iteratively refine profiling rules.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+- *LLMs:* Hugging Face Transformers for processing regulatory reporting instructions.
+- *Machine Learning:* Scikit-learn for anomaly detection, clustering, and risk scoring.
+- *Data Processing:* Pandas and NumPy for handling structured financial data.
+- *Code Generation:* ChatGPT for generating Python-based code.
+- *Visualization & Interactivity:* React Tool for an intuitive interface that allows auditors to refine rules dynamically.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+- *Extracting accurate profiling rules:* Interpreting complex regulatory instructions required fine-tuning LLM prompts to extract meaningful validation rules.
+- *Ensuring model explainability:* Regulatory compliance requires transparency, so we had to ensure that AI-generated rules and risk scores were interpretable by auditors.
+- *Handling diverse transaction patterns:* Anomaly detection had to be adaptive to different banking scenarios without generating excessive false positives.
+- *Building a scalable system:* The solution needed to handle large datasets efficiently while maintaining real-time performance. 
 
 ## 🏃 How to Run
 
