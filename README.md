@@ -17,9 +17,7 @@
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+📹 [Video Demo](https://drive.google.com/file/d/1zmFLBFS3XNKdTiJO50pXJetoDKBudZcW/view?usp=sharing)  
 
 ![Screenshot 1](link-to-image)
 
@@ -102,7 +100,7 @@ Follow the steps below to set up and run the project.
 - 🔹 Frontend: Nextjs
 - 🔹 Backend: Python, Flask, Jupyter Notebook
 - 🔹 Other: GenAI – LLM, Ngrok (for public backend exposure)
-- 
+
 ## 👥 Team
 - **Kethineedi, Lakshman K.**
 - **Komaravolu, Nehru**
