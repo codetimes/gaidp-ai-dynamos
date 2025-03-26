@@ -54,6 +54,7 @@ This project consists of:
 
 Follow the steps below to set up and run the project.
 
+Open this Link to launch the application : https://aidynamo.vercel.app/
 ---
 
 ### Backend Setup
