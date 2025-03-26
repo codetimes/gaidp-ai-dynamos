@@ -22,7 +22,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![AI_Dynamo](https://github.com/user-attachments/assets/d347b926-ad17-40b6-aec6-04c2ba4efe02)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+The banking industry faces significant challenges in meeting compliance requirements due to the complexity and volume of financial transactions. Manual data profiling is inefficient, making it difficult to detect inconsistencies, risks, and violations. Inspired by the potential of AI to transform data analysis, we set out to build a scalable, explainable, and efficient system that automates regulatory data profiling, reduces human effort, and enhances accuracy.
 
 ## ⚙️ What It Does
 - *Extracts data profiling rules* from regulatory reporting instructions using LLMs.
