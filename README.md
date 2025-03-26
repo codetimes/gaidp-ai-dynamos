@@ -53,8 +53,6 @@ This project consists of:
 - **Ngrok** to expose the backend publicly.
 
 Follow the steps below to set up and run the project.
-
-Open this Link to launch the application : https://aidynamo.vercel.app/
 ---
 
 ### Backend Setup
@@ -70,7 +68,7 @@ Open this Link to launch the application : https://aidynamo.vercel.app/
 ---
 
 ### Frontend Setup
-
+-Open this Link to launch the application : https://aidynamo.vercel.app/ else setup the code below :
 1. Clone the repository:
    ```sh
    git clone <repository-url>
