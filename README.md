@@ -112,7 +112,7 @@ Open this Link to launch the application : https://aidynamo.vercel.app/
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Nextjs
 - 🔹 Backend: Python, Flask, Jupyter Notebook
-- 🔹 Other: GenAI – LLM, Ngrok (for public backend exposure)
+- 🔹 Other: GenAI – LLM , Sentence Transformers , Ngrok (for public backend exposure)
 
 ## 👥 Team
 - **Kethineedi, Lakshman K.**
