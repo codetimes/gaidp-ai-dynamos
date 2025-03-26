@@ -21,7 +21,7 @@ Follow the steps below to set up and run the project.
 
 ### Backend Setup
 
-1. Open the provided **Google Colab** notebook.
+1. Open the provided **Google Colab** notebook in API folder(along with txt file at same level).
 2. Run all the cells to start the backend service.
 3. Once the backend is running, you will get the ngRok tunnel link as below :
    ```sh
