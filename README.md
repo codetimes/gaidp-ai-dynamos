@@ -19,8 +19,6 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ## 🎥 Demo
 📹 [Video Demo](https://drive.google.com/file/d/1zmFLBFS3XNKdTiJO50pXJetoDKBudZcW/view?usp=sharing)  
 
-![Screenshot 1](link-to-image)
-
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
 
