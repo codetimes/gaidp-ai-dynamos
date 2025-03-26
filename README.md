@@ -18,6 +18,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 
 ## 🎥 Demo
 📹 [Video Demo](https://drive.google.com/file/d/1zmFLBFS3XNKdTiJO50pXJetoDKBudZcW/view?usp=sharing)  
+##  Screenshots
 ![AI_Dynamo](https://github.com/user-attachments/assets/d347b926-ad17-40b6-aec6-04c2ba4efe02)
 
 ## 💡 Inspiration
