@@ -86,8 +86,9 @@ Follow the steps below to set up and run the project.
 
 1. Open the frontend application in the browser.
 2. On the **top-right corner**, find the **Link Setup** option.
-3. Enter the **Ngrok tunnel URL** obtained from the backend.
-4. Save the link, and the frontend will now communicate with the backend.
+![14](https://github.com/user-attachments/assets/43b56715-884f-4cc2-94f1-da4d5b637c79)
+4. Enter the **Ngrok tunnel URL** obtained from the backend.
+5. Save the link, and the frontend will now communicate with the backend.
 
 ---
 
